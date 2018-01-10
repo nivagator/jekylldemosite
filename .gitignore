@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+.vscode
+sftp.json
+junkdrawer
